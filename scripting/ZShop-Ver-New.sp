@@ -31,7 +31,7 @@ public Plugin:myinfo =
 	author = "EGood",
 	description = "For any skills in zm",
 	version = VERSION,
-	url = "http://GameX.co.il/"
+	url = "http://Gamers-Israel.co.il/"
 };
 
 public OnPluginStart()
